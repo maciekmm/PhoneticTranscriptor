@@ -6,10 +6,6 @@
 ## Requirements
 1. GO package
 
-## Building
-No external dependencies needed
->go build
-
 ## Usage
 1. Get phonetic transcriptor
 ```go get github.com/maciekmm/phonetictranscriptor```
